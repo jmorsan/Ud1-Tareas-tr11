@@ -10,6 +10,11 @@ public class Tarea6 {
 
         File[] misElementos = miCarpeta.listFiles(new Filtro());
 
+        for (File entrada : misElementos)
+        {
+            System.out.println(entrada.getName());
+
+        }
 
     }
 }
