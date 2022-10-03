@@ -2,8 +2,10 @@ package ies.jms.Tarea5;
 
 import java.io.File;
 
-public class Tarea5 {
-    public static void main(String[] args) {
+public class Tarea5
+{
+    public static void main(String[] args)
+    {
 
         File directorio1 = new File("." + File.separator + "dir1");
         File directorio2 = new File("." + File.separator + "dir2");

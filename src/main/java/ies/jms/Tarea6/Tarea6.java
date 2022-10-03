@@ -1,9 +1,7 @@
 package ies.jms.Tarea6;
 
-import javax.swing.*;
 import java.io.File;
-import java.sql.SQLOutput;
-import java.util.Arrays;
+
 
 public class Tarea6 {
     public static void main(String[] args) {
